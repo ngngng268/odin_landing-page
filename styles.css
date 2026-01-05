@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+div.intro {
+    display: flex;
+}
+
+div.info {
+    display: flex;
+    flex-direction: column;
+}
+
+div.quote {
+    display: flex;
+    flex-direction: column;
+}
+
+div.action {
+    display: flex;
+}
+
